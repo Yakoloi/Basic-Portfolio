@@ -78,6 +78,14 @@ li a {
 	margin-right: auto;
 }
 
+
+.portogroup {
+	width: 960px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #aboutbox {
 	right: 0px;
 	width: 650px;
@@ -89,6 +97,24 @@ li a {
 	padding: 20px;
 	float: left;
 
+}
+
+#portobox {
+	right: 0px;
+	width: 650px;
+	height: 770px;
+	background-color: white;
+	border-style: solid;
+	border-color: lightgrey;
+	border-width: 1px;	
+	padding: 20px;
+	float: left;
+
+}
+
+#portpic {
+	margin-left: 10px;
+	margin-bottom: 5px;
 }
 
 p.clear {
