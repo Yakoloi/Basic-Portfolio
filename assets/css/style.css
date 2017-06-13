@@ -270,3 +270,9 @@ h1.ptitle {
 	line-height: 50px;
 	font-family: Georgia, Times, serif;
 }
+
+label {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #696969;
+}
