@@ -79,6 +79,9 @@ h2, h3 {
   /*this gets rid of the annoying underline on links*/
   text-decoration: none;
 }
+#logo:hover {
+  background: #3C7C8A;
+}
 /*navvy nav bar*/
 nav {
   float: right;
@@ -264,4 +267,8 @@ input[type=submit] {
   font-size: 18px;
   padding: 10px 30px;
   cursor: pointer;
+}
+
+.hover:hover {
+  background-color: #3C7C8A;
 }
